@@ -1,0 +1,23 @@
+body{
+    background-color: #31304D;
+}
+
+.car1{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+img{
+    border-radius: 50px;
+    width: 500px;
+}
+
+h2{
+    text-align: center;
+    color: aliceblue;
+}
+
+p{
+    text-align: center;
+    color: aliceblue;
+}
